@@ -1,4 +1,4 @@
-# Perron--Frobenius Python Scripts
+# Perron-Frobenius Python Scripts
 Python code to supplement my essay titled "The Perron-Frobenius Theorem and Ranking Methods".
 
 motivation1.py is used to generate the graph and matrix in the essay, and motivation2.py is essentially the same, but without the simplifications used in the essay for typographical reasons.
